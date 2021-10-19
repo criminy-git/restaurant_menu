@@ -38,10 +38,6 @@ td {
   padding-bottom: 30px;
 }
 
-.dessert-menu {}
-
-.drinks-menu {}
-
 .menu-items {
   display: flex;
   flex-direction: column;
