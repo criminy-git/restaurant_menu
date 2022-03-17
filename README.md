@@ -1,3 +1,5 @@
+Custom designed restaurant menu
+
 [View finished project](https://j-pohl.github.io/restaurant_menu/)
 
 Learned during this project (August 2021):
