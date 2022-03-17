@@ -1,4 +1,4 @@
-Custom designed restaurant menu
+Custom designed restaurant menu page
 
 [View finished project](https://j-pohl.github.io/restaurant_menu/)
 
