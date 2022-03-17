@@ -1,4 +1,4 @@
-[View finished project](https://criminy-git.github.io/restaurant_menu/)
+[View finished project](https://j-pohl.github.io/restaurant_menu/)
 
 Learned during this project (August 2021):
 - Proper organisation of html code (how to structure dics and sections)
